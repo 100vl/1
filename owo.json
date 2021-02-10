@@ -2,6 +2,7 @@
   "自定义json": {
     "type": "image",
     "container": [
+      { "icon": "<img src=\"https://nekodeng.gitee.io/medias/spring-img/fudao.png\">", "text": "福到了" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/catyooo/owo@main/biaoqing/winnie/file_18395524.png\">", "text": "维尼_ok" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/catyooo/owo@main/biaoqing/winnie/file_18395535.png\">", "text": "维尼_？" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/catyooo/owo@main/biaoqing/bilibili/ic_emoji.png\">", "text": "JS_owo" },
