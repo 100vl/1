@@ -1,8 +1,99 @@
 {
-  "自定义json": {
-    "type": "image",
+  "小电视": {
+    "type": "image4",
     "container": [
-        { "icon": "<img src=\"https://nekodeng.gitee.io/medias/spring-img/fudao.png\">", "text": "福到了" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/点赞.gif\">", "text": "点赞" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/抓狂.gif\">", "text": "抓狂" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/睡着.gif\">", "text": "睡着" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/色.gif\">", "text": "色" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/doge.gif\">", "text": "狗头" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/亲亲.gif\">", "text": "亲亲" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/偷笑.gif\">", "text": "偷笑" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/再见.gif\">", "text": "再见" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/发怒.gif\">", "text": "发怒" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/发财.gif\">", "text": "发财" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/可爱.gif\">", "text": "可爱" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/吐血.gif\">", "text": "吐血" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/打脸.gif\">", "text": "打脸" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/闭嘴.gif\">", "text": "闭嘴" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/大哭.gif\">", "text": "大哭" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/笑哭.gif\">", "text": "笑哭" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/大佬.gif\">", "text": "大佬" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/疑问.gif\">", "text": "疑问" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/黑人问号.gif\">", "text": "黑人问号" }
+    ]
+  },
+  "嗷大喵": {
+    "type": "image3",
+    "container": [
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/01.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/02.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/03.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/04.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/05.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/06.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/07.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/08.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/09.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/10.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/11.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/12.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/13.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/14.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/15.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/16.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/17.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/18.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/19.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/20.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/21.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/22.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/23.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/24.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/25.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/26.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/27.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/28.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/29.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/30.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/31.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/32.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/33.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/34.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/35.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/36.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/37.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/38.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/39.gif\">", "text": "" },      
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/40.gif\">", "text": "" }          
+    ]
+  },
+  "自定gif": {
+    "type": "image2",
+    "container": [
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/1.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/2.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/3.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/4.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/5.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/6.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/a.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/aaa.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/ai.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/dazhen.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/feng.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/gun.gif\">", "text": "" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/jd1.gif\">", "text": "" }        
+    ]
+  },  
+  "自定json": {
+    "type": "image1",
+    "container": [
+      { "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/28a91da1685d90124cfeead74622e1ebb417c0eb.png@112w_112h.webp\">", "text": "嗑瓜子" },
+      { "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png@112w_112h.webp\">", "text": "脱单" },
+      { "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png@112w_112h.webp\">", "text": "打call" },
+      { "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/43d3db7d97343c01b47e22cfabeca84b4251f35a.png@112w_112h.webp\">", "text": "灵魂出窍" },
+      { "icon": "<img src=\"https://nekodeng.gitee.io/medias/spring-img/fudao.png\">", "text": "福到了" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/catyooo/owo@main/biaoqing/winnie/file_18395524.png\">", "text": "维尼_ok" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/catyooo/owo@main/biaoqing/winnie/file_18395535.png\">", "text": "维尼_？" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/catyooo/owo@main/biaoqing/bilibili/ic_emoji.png\">", "text": "JS_owo" },
@@ -20,7 +111,7 @@
       { "icon": "<img src=\"https://nekodeng.gitee.io/medias/hongmiaosi.gif\">", "text": "快来_跳舞" },
       { "icon": "<img src=\"https://nekodeng.gitee.io/medias/simiao.gif\">", "text": "开始_你的表演" }
     ]
-  }, 
+  },       
   "颜文字": {
     "type": "emoticon",
     "container": [
@@ -152,3 +243,4 @@
     ]
   }
 }
+
