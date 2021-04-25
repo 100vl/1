@@ -1,6 +1,6 @@
 {
   "小电视": {
-    "type": "image4",
+    "type": "image",
     "container": [
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/点赞.gif\">", "text": "点赞" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibili_tv_gif/抓狂.gif\">", "text": "抓狂" },
@@ -24,7 +24,7 @@
     ]
   },
   "嗷大喵": {
-    "type": "image3",
+    "type": "image",
     "container": [
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/01.gif\">", "text": "" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/aodamiao/02.gif\">", "text": "" },
@@ -69,7 +69,7 @@
     ]
   },
   "自定gif": {
-    "type": "image2",
+    "type": "emoji",
     "container": [
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/1.gif\">", "text": "" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/100vl/imgs/gif/2.gif\">", "text": "" },
@@ -87,7 +87,7 @@
     ]
   },  
   "自定json": {
-    "type": "image1",
+    "type": "emoticon",
     "container": [
       { "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/28a91da1685d90124cfeead74622e1ebb417c0eb.png@112w_112h.webp\">", "text": "嗑瓜子" },
       { "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png@112w_112h.webp\">", "text": "脱单" },
